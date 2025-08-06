@@ -1,0 +1,36 @@
+PS C:\wsam> python -u "c:\Users\maheit\Desktop\Aditya Varshney\Lab3 Twitter.py"
+Top 10 Porter Stemmer Words:
+data: 31
+is: 27
+a: 22
+model: 18
+the: 15
+in: 12
+learn: 11
+to: 11
+just: 11
+my: 11
+
+Top 10 Snowball Stemmer Words:
+data: 31
+is: 27
+a: 22
+model: 18
+the: 15
+in: 12
+learn: 11
+to: 11
+just: 11
+my: 11
+
+Top 10 Lemmatized Words:
+datum: 22
+model: 17
+data: 9
+science: 8
+today: 7
+learn: 6
+python: 6
+use: 6
+learning: 5
+time: 5
